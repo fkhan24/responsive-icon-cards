@@ -33,3 +33,59 @@ body {
   width: 100%;
   width: 50px;
 }
+
+.card-img img {
+  margin-top: 0;
+}
+
+.cards {
+  list-style-type: none;
+}
+
+.card-body h2 {
+  font-weight: normal;
+  font-size: 1.5rem;
+}
+
+ul {
+  margin: .75em;
+  padding-left: 0;
+}
+
+.card-body {
+  margin: 0;
+}
+
+@media only screen and (min-width: 25em) {
+
+  .img {
+    display: inline-block;
+    margin-top: 1em;
+  }
+
+  .card-img {
+    margin-bottom: 0;
+  }
+
+  .content {
+    display: inline-block;
+    margin-left: 4em;
+    margin-top: -5em;
+  }
+
+}
+
+@media only screen and (min-width: 38em) {
+
+
+}
+
+@media only screen and (min-width: 60em) {
+
+
+}
+
+@media only screen and (min-width: 90em) {
+
+
+}
