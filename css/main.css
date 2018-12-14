@@ -36,7 +36,6 @@ body {
 
 .card-img img {
   margin-top: 0;
-  margin-bottom: 1.5em;
 }
 
 .cards {
@@ -71,10 +70,6 @@ ul {
   .content {
     display: inline-block;
     margin-left: 4em;
-    margin-top: -5em;
-  }
-
-  ul {
     margin-top: -5em;
   }
 
@@ -117,9 +112,9 @@ ul {
   }
 
   .content {
+    margin-top: 0;
     display: block;
     margin-left: 0;
-    margin-top: 0;
     margin-right: .9em;
   }
 
@@ -136,19 +131,8 @@ ul {
     line-height: 1.5;
   }
 
-  img {
-    margin-top: 1em;
-    display: inline-block;
-  }
-
   .cards {
     width: 32%;
-  }
-
-  .content {
-    display: inline-block;
-    margin-left: 4em;
-    margin-top: -5em;
   }
 
 }
@@ -170,8 +154,8 @@ ul {
 
   .content {
     display: inline-block;
-    margin-left: -5em;
-    margin-top: 4em;
+    margin-left: 4em;
+    margin-top: -5em;
   }
 
 }
